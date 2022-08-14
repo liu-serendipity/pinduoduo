@@ -1,0 +1,5 @@
+export const SET_RANK_LIST = "SET_RANK_LIST"
+export const SET_TAB_LIST = "SET_TAB_LIST"
+export const SET_SPECIAL_LIST = "SET_SPECIAL_LIST"
+export const SET_ENTER_LOADING = "SET_ENTER_LOADING"
+export const SET_GOODS_LIST = "SET_GOODS_LIST"

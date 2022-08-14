@@ -1,0 +1,44 @@
+{
+  "id": "3512369",
+  "name": "pinduoduo",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "577363",
+      "name": "首页-fill",
+      "font_class": "shouyefill",
+      "unicode": "e750",
+      "unicode_decimal": 59216
+    },
+    {
+      "icon_id": "12435114",
+      "name": "个人中心",
+      "font_class": "gerenzhongxin",
+      "unicode": "e72a",
+      "unicode_decimal": 59178
+    },
+    {
+      "icon_id": "1235",
+      "name": "对话",
+      "font_class": "duihua",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "566217",
+      "name": "视频",
+      "font_class": "shipin",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "1048877",
+      "name": "分类",
+      "font_class": "icon_category",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    }
+  ]
+}
